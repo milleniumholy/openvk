@@ -8,6 +8,9 @@ The basis of this fork, we took the sources of the social network version 2.0.
 
 # Advantages
 -- Super-fast response
+
 -- Takes up little space on the host
+
 -- Independent project
+
 -- There is no Veselсraft code
