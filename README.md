@@ -6,7 +6,7 @@ which is currently the best, most progressive, high-quality and fast framework f
 the vanilla.php library, which we wrote ourselves. it also speeds up the code. 
 The basis of this fork, we took the sources of the social network version 2.0.
 
-#Advantages
+# Advantages
 -- Super-fast response
 -- Takes up little space on the host
 -- Independent project
